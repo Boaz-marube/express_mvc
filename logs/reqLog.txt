@@ -35,3 +35,12 @@
 20210921	09:26:40	d7c7d5fe-664b-4ce5-8f68-77601ec738c9	POST	undefined	/employees
 20210921	09:26:52	877c2794-8749-439b-af97-78015eca9a95	PUT	undefined	/employees
 20210924	08:31:09	b0351b0d-ecd5-449e-9993-bf3ffc729f49	PUT	undefined	/employees
+20250722	21:40:22	38a22f25-3bdd-4a05-a9b7-fb52545bd64b	GET	undefined	/
+20250722	21:40:22	2cc3e9fb-1f63-455c-93af-3bbf84b7725e	GET	undefined	/css/style.css
+20250722	23:06:32	dfd95a08-c90c-428a-b340-676cb2c04664	GET	undefined	/employees/1
+20250722	23:06:40	595387d3-da71-4e8d-af69-c9162d03bd8d	GET	undefined	/employees
+20250722	23:07:31	dd2edaff-8cf2-466c-abcf-9de65c4f3988	POST	undefined	/employees
+20250722	23:08:30	e4e861d2-79e9-4c83-9e08-b123f7166ecc	POST	undefined	/employees
+20250722	23:09:32	d9b3c979-7757-480f-b807-caf4f686cfc4	GET	undefined	/employees/2
+20250722	23:10:35	cf058a29-2f5f-4401-aebc-f08a04d8155b	GET	undefined	/employees
+20250722	23:10:43	4705a824-cebe-4a5e-9b3a-11cfb2733933	PUT	undefined	/employees
